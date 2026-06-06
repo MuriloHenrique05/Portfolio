@@ -61,6 +61,7 @@ nav h1 {
 
 .sobre-texto h2{
       font-size: 38px;
+      padding: 20px;
 }
 
 .sobre-texto p{
@@ -111,7 +112,7 @@ html {
     width: 75%;
 }
 
-.skills>h2 {
+.skills > h2 {
     font-size: 45px;
     margin-bottom: 30px;
 }
